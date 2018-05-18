@@ -6,6 +6,7 @@ background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf
 #container
 {
 	background-image: url('http://mrwgifs.com/wp-content/uploads/2014/11/HQ-Carlton-Dance-With-a-Transparent-Background-Gif-From-The-Fresh-Prince-Of-Bel-Air.gif');
+	background-size: cover;
 }
 #h1,h2,h3,h4,h5,h6,p{
 font-family: 'Roboto', sans-serif;}
