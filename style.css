@@ -7,7 +7,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #012354;
 	padding: 20px;
 }
 
@@ -30,6 +30,7 @@
 {
 	list-style-type: none;
 	display: inline;
+    color: aqua;
 }
 
 #navigation li a
@@ -70,7 +71,7 @@
 
 #news
 {	
-	float: left;
+	float: right;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
