@@ -1,4 +1,6 @@
-/*lol*/
+h1,h2 {
+    text-align: center;
+}
 #container
 {
 	margin: 0 30px;
