@@ -62,9 +62,10 @@
 
 #edito h2
 {
-	color: #000;
-	font-size: 160%;
+	color: pink;
+	font-size: 200%;
 	margin: 0 0 .5em;
+	font-family: arial;
 }
 
 #news
