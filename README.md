@@ -8,7 +8,7 @@ Voici quelques indications pour vous retrouver :
       C'est simple !
       Vous allez voir une répétition du même code, vous avez juste à modifier le 
       commentaire par votre nom, modifier le h2 (titre) ainsi que le paragraphe (p) 
-      et la source de votre article (<a href="liendemonarticle">Nom du site</a> : 
+      et la source de votre article (<a href="liendemonarticle">Nom du site</a>) : 
       
       
       
