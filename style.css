@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+	font-family: "Roboto";
+}
+.col-6{
+	margin-bottom: 2rem;
+}
 #container
 {
 	margin: 0 30px;
@@ -50,8 +57,6 @@
 	margin: 20px;
 	-webkit-border-radius: 18px;
 	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
 	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
 	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
@@ -68,21 +73,19 @@
 }
 
 #news
-{	
+{
 	float: left;
-	width: 40%;
 	padding: 20px;
 	margin: 20px;
-	-webkit-border-radius: 18px;
-	border-radius: 18px;
-	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
-	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
+	border-radius: 10px;
+	border-left-style: solid;
+	border-left-color: rgba(0,200,83,1);
+	border-left-width: 8px;
+	background-color: #EAEFFC;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	height: 100%;
 }
 
 #footer
