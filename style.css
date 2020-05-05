@@ -1,3 +1,6 @@
+h1,h2 {
+    text-align: center;
+}
 #container
 {
 	margin: 0 30px;
@@ -6,7 +9,7 @@
 
 #header
 {
-	background: #ccc;
+	background: #012354;
 	padding: 20px;
 }
 
@@ -29,6 +32,7 @@
 {
 	list-style-type: none;
 	display: inline;
+    color: aqua;
 }
 
 #navigation li a
@@ -69,7 +73,7 @@
 
 #news
 {	
-	float: left;
+	float: right;
 	width: 40%;
 	padding: 20px;
 	margin: 20px;
@@ -88,8 +92,11 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #fff;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
+}
+h3{
+    text-align: center;
 }
